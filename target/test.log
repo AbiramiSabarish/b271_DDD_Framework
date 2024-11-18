@@ -1,0 +1,35 @@
+[INFO ] 2024-10-29 10:48:37.426 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-29 10:48:44.196 [main] BaseClass - By.id: id_username is visible
+[INFO ] 2024-10-29 10:48:44.256 [main] BaseClass - Abirami is entered in By.id: id_username
+[INFO ] 2024-10-29 10:48:44.288 [main] BaseClass - By.id: id_password is visible
+[INFO ] 2024-10-29 10:48:44.366 [main] BaseClass - Bullet@123 is entered in By.id: id_password
+[INFO ] 2024-10-29 10:48:44.396 [main] BaseClass - By.xpath: //button[text()='Login'] is visible
+[INFO ] 2024-10-29 10:48:45.402 [main] BaseClass - By.xpath: //button[text()='Login'] is clicked
+[INFO ] 2024-10-29 10:48:45.463 [main] BaseClass - By.xpath: (//a[@class='nav-item nav-link'])[4] is visible
+[INFO ] 2024-10-29 10:48:45.493 [main] BaseClass - Abirami is present
+[INFO ] 2024-10-29 10:48:45.499 [main] BaseClass - loginWithValidCredentials is passed
+[INFO ] 2024-10-29 10:48:46.593 [main] BaseClass - *********************Execution completed***************************
+[INFO ] 2024-10-29 10:55:32.952 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-29 10:55:37.202 [main] BaseClass - By.id: id_username is visible
+[INFO ] 2024-10-29 10:55:37.254 [main] BaseClass - Abirami is entered in By.id: id_username
+[INFO ] 2024-10-29 10:55:37.284 [main] BaseClass - By.id: id_password is visible
+[INFO ] 2024-10-29 10:55:37.355 [main] BaseClass - Bullet@123 is entered in By.id: id_password
+[INFO ] 2024-10-29 10:55:37.386 [main] BaseClass - By.xpath: //button[text()='Login'] is visible
+[INFO ] 2024-10-29 10:55:38.397 [main] BaseClass - By.xpath: //button[text()='Login'] is clicked
+[INFO ] 2024-10-29 10:55:38.455 [main] BaseClass - By.xpath: (//a[@class='nav-item nav-link'])[4] is visible
+[INFO ] 2024-10-29 10:55:38.479 [main] BaseClass - Abirami is present
+[INFO ] 2024-10-29 10:55:38.483 [main] BaseClass - loginWithValidCredentials is passed
+[INFO ] 2024-10-29 10:55:39.621 [main] BaseClass - *********************Execution completed***************************
+[INFO ] 2024-10-29 10:57:16.463 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-29 10:57:21.793 [main] BaseClass - By.id: id_username is visible
+[INFO ] 2024-10-29 10:57:21.853 [main] BaseClass - Abirami is entered in By.id: id_username
+[INFO ] 2024-10-29 10:57:21.880 [main] BaseClass - By.id: id_password is visible
+[INFO ] 2024-10-29 10:57:21.948 [main] BaseClass - Bullet@123 is entered in By.id: id_password
+[INFO ] 2024-10-29 10:57:21.983 [main] BaseClass - By.xpath: //button[text()='Login'] is visible
+[INFO ] 2024-10-29 10:57:23.326 [main] BaseClass - By.xpath: //button[text()='Login'] is clicked
+[INFO ] 2024-10-29 10:57:23.374 [main] BaseClass - By.xpath: (//a[@class='nav-item nav-link'])[4] is visible
+[INFO ] 2024-10-29 10:57:23.397 [main] BaseClass - Abirami is present
+[INFO ] 2024-10-29 10:57:23.399 [main] BaseClass - loginWithValidCredentials is passed
+[INFO ] 2024-10-29 10:57:24.111 [main] BaseClass - *********************Execution completed***************************
+[INFO ] 2024-10-29 11:36:19.813 [main] BaseClass - *********************Execution Start***************************
+[INFO ] 2024-10-29 11:36:24.741 [main] BaseClass - *********************Execution completed***************************

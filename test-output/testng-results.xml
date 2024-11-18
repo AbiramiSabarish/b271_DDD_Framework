@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-29T10:57:16 SGT" name="Suite" finished-at="2024-10-29T10:57:23 SGT" duration-ms="7358">
+    <groups>
+    </groups>
+    <test started-at="2024-10-29T10:57:16 SGT" name="Test" finished-at="2024-10-29T10:57:23 SGT" duration-ms="7358">
+      <class name="com.vcentry.testcase.LoginTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.vcentry.testcase.LoginTest@287f94b1]" started-at="2024-10-29T10:57:16 SGT" name="beforeSuite" finished-at="2024-10-29T10:57:16 SGT" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="initialize()[pri:0, instance:com.vcentry.testcase.LoginTest@287f94b1]" started-at="2024-10-29T10:57:16 SGT" name="initialize" finished-at="2024-10-29T10:57:19 SGT" duration-ms="3023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method is-config="true" signature="launchurl()[pri:0, instance:com.vcentry.testcase.LoginTest@287f94b1]" started-at="2024-10-29T10:57:19 SGT" name="launchurl" finished-at="2024-10-29T10:57:21 SGT" duration-ms="1706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method signature="loginWithValidCredentials(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.vcentry.testcase.LoginTest@287f94b1]" started-at="2024-10-29T10:57:21 SGT" name="loginWithValidCredentials" data-provider="ValidLogin" finished-at="2024-10-29T10:57:23 SGT" duration-ms="1665" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abirami]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bullet@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Abirami]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.vcentry.testcase.LoginTest@287f94b1]" started-at="2024-10-29T10:57:23 SGT" name="afterTest" finished-at="2024-10-29T10:57:23 SGT" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.vcentry.testcase.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
