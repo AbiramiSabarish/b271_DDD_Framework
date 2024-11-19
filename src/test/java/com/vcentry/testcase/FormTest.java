@@ -37,6 +37,7 @@ public class FormTest extends BaseClass{
     	form.selectPayment(payment);
     	form.placeOrder();
     	form.verifyOrderPlaced(message);
+    	System.out.println("msg");
     }
     
     @DataProvider(name="validData")
